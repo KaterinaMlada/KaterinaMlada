@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kateřina Mladá</h1>
-<h3 align="center">#Woman #Junior #PythonDev .. ? #RubyOnRails ?</h3>
+<h3 align="center">#Woman #Junior #PythonDev ..</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn-icons-png.flaticon.com/512/2890/2890354.png">
 
 

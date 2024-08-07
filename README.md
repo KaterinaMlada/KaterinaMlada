@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on: **E-commerce websites**
 
-- 🌱 I’m currently learning: **Ruby on Rails and still.. Python(Cuz I want be better)**
+- 🌱 I’m currently learning: **Python(Cuz I want be better..)**
 
 - 💬 Ask me about: **Django and my hobbies😶**
 
